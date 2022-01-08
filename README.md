@@ -77,4 +77,4 @@ $ bash /path/to/ssp-autocheckin.sh
 
 ```bash
 24 10 * * * bash /path/to/ssp-autocheckin.sh >> /path/to/ssp-autocheckin.log 2>&1
-```
+```2022年1月9日 01:43:27
