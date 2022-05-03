@@ -79,3 +79,4 @@ $ bash /path/to/ssp-autocheckin.sh
 24 10 * * * bash /path/to/ssp-autocheckin.sh >> /path/to/ssp-autocheckin.log 2>&1
 ```2022年1月9日 01:43:27
 ```2022年3月11日
+```2022年5月3日 21:45:06
